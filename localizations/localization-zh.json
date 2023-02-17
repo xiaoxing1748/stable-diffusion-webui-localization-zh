@@ -775,5 +775,5 @@
     "Denoising Diffusion Implicit Models - best at inpainting": "Denoising Diffusion Implicit Models - 擅长局部重绘（Inpaint）",
     "If this values is non-zero, it will be added to seed and used to initialize RNG for noises when using samplers with Eta. You can use this to produce even more variation of images, or you can use this to match images of other software if you know what you are doing.": "若此值非零，在用带有 Eta 的采样方法时，它会被加入随机种子并用于初始化噪声的随机数生成器\n可以用它来产生更多的图片变化\n也可以用它来贴近其他软件生成的图片，要是你知道自己在做什么的话",
     "Leave empty for auto": "留空以自动识别",
-    "Start drawing": "开始绘画",
+    "Start drawing": "开始绘画"
 }
