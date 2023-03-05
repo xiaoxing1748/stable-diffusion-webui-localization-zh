@@ -27,10 +27,6 @@ if mix_localization:
             here_dict:dict=json.load(f)
         zh_dict.update(here_dict)
         rename_item={
-            "图像":"图片",
-            "提示词":"咒文",
-            "通配符":"通配咒文",
-            "重绘幅度":"去噪强度",
             "(":"（",
             ")":"）"
         }
